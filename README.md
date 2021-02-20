@@ -4,7 +4,7 @@
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 
-Landing page created for the [Be The Hero](https://github.com/LHPegnolatto/be-the-hero) project, in order to improve my knowledge in design systems and [Chakra](https://chakra-ui.com/docs/getting-started).
+Responsive landing page created for the [Be The Hero](https://github.com/LHPegnolatto/be-the-hero) project, in order to improve my knowledge in design systems and [Chakra](https://chakra-ui.com/docs/getting-started).
 
 ![](media/home.png)
 
@@ -21,11 +21,11 @@ yarn dev
 
 ## Meta
 
-Luiz Henrique Pegnolatto – lgpegnolatto@gmail.com
+Luiz Henrique Pegnolatto – lhpegnolatto@gmail.com
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/lhpegnolatto/github-link](https://github.com/lhpegnolatto/)
+<[lhpegnolatto](https://github.com/lhpegnolatto/) />
 
 ## Contributing
 
