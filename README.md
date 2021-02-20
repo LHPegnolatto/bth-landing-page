@@ -8,6 +8,9 @@ Responsive landing page created for the [Be The Hero](https://github.com/LHPegno
 
 ![](media/home.png)
 
+## Demo
+[Vercel deploy](https://bth-landing-page.vercel.app/)
+
 ## Development setup
 
 ```sh
