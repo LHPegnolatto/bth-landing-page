@@ -6,7 +6,7 @@
 
 Landing page created for the [Be The Hero](https://github.com/LHPegnolatto/be-the-hero) project, in order to improve my knowledge in design systems and [Chakra](https://chakra-ui.com/docs/getting-started).
 
-![](meida/home.png)
+![](media/home.png)
 
 ## Development setup
 
